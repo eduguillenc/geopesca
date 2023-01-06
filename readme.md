@@ -1,7 +1,7 @@
 ![Logo](https://github.com/eduguillenc/geopesca/blob/main/images/minlogo.png)
 
 # Geopesca
-Presentacion de datos pesqueros Venezuela 2022
+Presentacion de datos pesqueros Venezuela
 
 ## Authors
 
